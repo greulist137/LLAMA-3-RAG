@@ -1,2 +1,1 @@
-# LLAMA 3-RAG
- 
+# rag-tutorial-v2
